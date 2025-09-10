@@ -19,8 +19,8 @@ except:
 
 
 def printlogo():
-    pc.printout(artwork.ascii_art, pc.YELLOW)
-    pc.printout("\nVersion 1.1 - Developed by Giuseppe Criscione", pc.YELLOW)
+    pc.printout(artwork.ascii_art, pc.GREAN)
+    pc.printout("\nVersion 1.1 - Developed by Dark Devil", pc.RED)
     pc.printout(
         f"\nHikerAPI {hk.__version__} https://hikerapi.com/help/about\n\n", pc.YELLOW
     )
