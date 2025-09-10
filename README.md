@@ -48,7 +48,7 @@ Osintgram offers an interactive shell to perform analysis on Instagram account o
 
 You can find detailed commands usage [here](doc/COMMANDS.md).
 
-[**Latest version**](https://github.com/Datalux/Osintgram/releases/tag/1.3) |
+[**Latest version**]((https://github.com/darkworld-king/Osintgram.git)) |
 [Commands](doc/COMMANDS.md) |
 [CHANGELOG](doc/CHANGELOG.md)
 
@@ -61,7 +61,7 @@ You can find detailed commands usage [here](doc/COMMANDS.md).
 
 1. Fork/Clone/Download this repo
 
-    `git clone https://github.com/Datalux/Osintgram.git`
+    `git clone https://github.com/darkworld-king/Osintgram.git`
 
 2. Navigate to the directory
 
@@ -88,7 +88,7 @@ You can find detailed commands usage [here](doc/COMMANDS.md).
     * Or execute using HikerAPI token via env `HIKERAPI_TOKEN=<hikerapi token> python3 main.py <target username> -c <command>`
     
 ### Use Osintgram v2 (beta)
-You can use Osintgram2 beta just switching to `v2` [branch](https://github.com/Datalux/Osintgram/tree/v2).
+You can use Osintgram2 beta just switching to `v2` [branch](https://github.com/darkworld-king/Osintgram.git).
 The v2 has some improvements and is faster with a new command execution interface. Try it just running `git checkout v2`.
 
 ## Docker Quick Start 🐳
@@ -181,7 +181,7 @@ You can propose a feature request opening an issue or a pull request.
 
 Here is a list of Osintgram's contributors:
 
-<a href="https://github.com/Datalux/Osintgram/graphs/contributors">
+<a href="[https://github.com/Datalux/Osintgram/graphs/contributors](https://github.com/darkworld-king/Osintgram.git)">
   <img src="https://contributors-img.web.app/image?repo=Datalux/Osintgram" />
 </a>
 
